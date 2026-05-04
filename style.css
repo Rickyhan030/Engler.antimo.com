@@ -181,3 +181,7 @@ header.scrolled {
   color: white;
   cursor: pointer;
 }
+
+* {
+  box-sizing: border-box;
+}
